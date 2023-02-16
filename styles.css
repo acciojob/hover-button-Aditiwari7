@@ -2,13 +2,13 @@
 /* Your CSS Code here. */
 
 .abc{
-	background-color: black;
-	color: white;
+	background-color: rgb(0,0,0);
+	color: rgb(255,255,255);
 	border-radius: 5px;
 }
 
 .abc:hover{
 	background-color: yellow;
-	color: black;
+	color: rgb(0,0,0);
 	border-radius: 30px;
 }
