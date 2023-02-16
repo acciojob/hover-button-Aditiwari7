@@ -1,14 +1,15 @@
 
 /* Your CSS Code here. */
 
-.abc{
-	background-color: rgb(0,0,0);
-	color: rgb(255,255,255);
+#btn {
+	background: black;
+	color: white;
 	border-radius: 5px;
+	border: 0;
 }
 
-.abc:hover{
-	background-color: yellow;
-	color: rgb(0,0,0);
+#btn:hover{
+	background: yellow;
+	color: black;
 	border-radius: 30px;
 }
